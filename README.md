@@ -16,7 +16,7 @@ I'm professionally working as Software Engineer. I also have a youtube channel w
 
 <p align="left"> <a href="https://www.youtube.com/user/shashtwri" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="shashtwri" /></a> </p>
 
-- 📫 How to reach me **shashwattiwari8@gmail.com**
+- 📫 Reach out to me here: **shashwattiwari8@gmail.com**
 <br><br><br>
 <hr>
 
