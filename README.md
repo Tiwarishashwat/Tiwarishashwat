@@ -13,28 +13,19 @@ I'm professionally working as Software Engineer. I also have a youtube channel w
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Tiwarishashwat&theme=radical">
 <img align="right" height="350" width="400" src="https://github.com/Tiwarishashwat/Tiwarishashwat/blob/main/MyEmoji_20201005_170314_44.gif" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ishikkkkaaaa&count_private=true&theme=radical&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Tiwarishashwat&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p>
+<p align="left"> <a href="https://www.youtube.com/user/shashtwri" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="shashtwri" /></a> </p>
 
-- 📫 How to reach me **ishikakesarwani2000@gmail.com**
+- 📫 How to reach me **shashwattiwari8@gmail.com**
 <br><br>
 <hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ishikakesarwan4" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ishika-kesarwani-3b32811a6/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/wth_ishiii" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/shashwattiwari1999/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="shashwattiwari1999" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/shashwat_tiwari_st" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="shashwat_tiwari_st" height="50" width="50" /></a>
 </p>
-
-<hr>
-
-<p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-
 
 
 <!--
