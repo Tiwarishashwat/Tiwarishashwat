@@ -22,8 +22,8 @@ I'm professionally working as Software Engineer. I also have a youtube channel w
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/shashwattiwari1999/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="shashwattiwari1999" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/shashwat_tiwari_st" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="shashwat_tiwari_st" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/shashwattiwari1999/" target="blank"><img align="left" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="shashwattiwari1999" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/shashwat_tiwari_st" target="blank"><img align="left" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="shashwat_tiwari_st" height="50" width="50" /></a>
 </p>
 
 
