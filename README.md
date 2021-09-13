@@ -4,7 +4,6 @@ I am Shashwat Tiwari, professionally working as Software Engineer.
 
 I also have a youtube channel where I release free Tech Tutorials, Guidance, Motivation and many more things!.
 
-![github](https://github.com/Tiwarishashwat?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <!--
 **Tiwarishashwat/Tiwarishashwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
