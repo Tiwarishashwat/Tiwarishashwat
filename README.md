@@ -14,7 +14,7 @@ I'm professionally working as Software Engineer. I also have a youtube channel w
 <img align="right" height="350" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> </a>
 </p>
 
-<p align="left"> <a href="https://www.youtube.com/user/shashtwri" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="shashtwri" /></a> </p>
+<p align="left"> <a href="https://www.youtube.com/user/shashtwri" target="blank"><img src="https://img.shields.io/youtube/channel/views/UCegtbaD_t6PYm3eaAf_bvGQ?style=social" alt="shashtwri" /></a> </p>
 
 - 📫 Reach out to me here: **shashwattiwari8@gmail.com**
 <br><br><br>
